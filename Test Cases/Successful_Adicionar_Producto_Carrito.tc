@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Successful_Adicionar_Producto_Carrito</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f6be9c00-ddc9-49a6-8d5f-b1cb0a3ae803</testCaseGuid>
+</TestCaseEntity>
